@@ -31,7 +31,7 @@ dependencies = [
     "coreai-torch==0.4.2",
     "coreai-opt==0.2.1",
     "torch==2.9.0",
-    "setuptools>=42",
+    "setuptools>=83.0.0",
     "numpy>=2.2,<3.0",
     "tqdm>=4.67,<5.0",
     "datasets>=4.0,<5.0",
